@@ -1,0 +1,32 @@
+name: "NIHR01_website"
+output_dir: "."
+navbar:
+  title: "Hu Lab"
+  right:
+    - text: "Install"
+      href: install.html
+    - text: "Methods"
+      menu:
+        - text: "spaRZiMM"
+          href: spaRZiMM.html
+        - text: "TransST"
+          href: TransST.html
+        - text: "Biomarker Analysis"
+          href: biomarker_analysis.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Examples"
+      href: examples.html
+    - icon: fa-envelope fa-lg #email
+      href: mailto:<cbsr@cumc.columbia.edu>
+    - icon: fa-github fa-lg #github
+      href: http://github.com
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+      
+
+
+ 

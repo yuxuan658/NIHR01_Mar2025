@@ -1,0 +1,41 @@
+---
+output: html_document
+---
+<br>
+<div align="left">
+  <h2 style="font-weight: bold;">spaRZiMM</h2>
+</div>
+
+<div align="center">
+  <h2>🚧 Under Construction 🚧</h2>
+  <p>We are building our website... Please check back soon for updates. Thank you for your patience!</p>
+</div>
+
+<br>
+<br>
+
+<h3 style="font-weight: bold;">Description</h3>
+spaRZiMM uniquely combines spatial information with gene expression, improving clustering accuracy and gene identification compared to existing techniques. This makes it a valuable tool for researchers studying complex tissue architectures in both high-resolution single-cell and lower-resolution multiple-cell data contexts.
+<br>
+<br>
+
+<h3 style="font-weight: bold;">Code</h3>
+🚧 Website Under Construction… 🚧
+<br>
+<br>
+
+<h3 style="font-weight: bold;">Workflow diagram</h3>
+🚧 Website Under Construction… 🚧
+<br>
+<br>
+
+<img src="images/figure1_spaRZiMM.png" style="display: block; margin: auto; width: 600px; height: auto">
+<br>
+<br>
+<br>
+<br>
+
+
+---
+`[^1]:`{=markdown} Developed by Hu Lab and Collaborators.
+
