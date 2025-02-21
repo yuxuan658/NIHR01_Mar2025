@@ -14,7 +14,7 @@ output: html_document
 <br>
 <br>
 <h3 style="font-weight: bold;">Description</h3>
-TranST effectively transfers cell clustering information from known datasets to new, unlabeled ST datasets. By using a source dataset with well-annotated cell types—either from scRNA-seq or relevant ST studies—TranST uncovers cell heterogeneity in the target ST data.
+TransST effectively transfers cell clustering information from known datasets to new, unlabeled ST datasets. By using a source dataset with well-annotated cell types—either from scRNA-seq or relevant ST studies—TransST uncovers cell heterogeneity in the target ST data.
 <br>
 <br>
 
